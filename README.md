@@ -5,6 +5,8 @@ Reading Challenge tracker very roughly based on the Rory Gilmore Reading Challen
 The personal folder is ignored in this repository.
 I (@mfa) store the personal folder in a second private repository.
 
+Blog post about this Repository: https://madflex.de/reading-challenge-tracking/
+
 ## Usage
 
 ```bash
