@@ -1,0 +1,9 @@
+[project]
+name = "reading-challenge"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "ruamel-yaml>=0.18.16",
+    "typer>=0.12.0",
+]

@@ -1,0 +1,2718 @@
+books:
+- slug: 1984-1949
+  name: '1984'
+  author: George Orwell
+  year: 1949
+  movies:
+  - title: '1984'
+    year: 1956
+    imdb: tt0048918
+  - title: Nineteen Eighty-Four
+    year: 1984
+    imdb: tt0087803
+- slug: a-bolt-from-the-blue-and-other-essays-1946
+  name: A Bolt from the Blue and Other Essays
+  author: Mary McCarthy
+  year: 1946
+- slug: a-brief-history-of-time-1988
+  name: A Brief History of Time
+  author: Stephen Hawking
+  year: 1988
+- slug: a-christmas-carol-1843
+  name: A Christmas Carol
+  author: Charles Dickens
+  year: 1843
+  movies:
+  - title: A Christmas Carol
+    year: 1951
+    imdb: tt0044008
+  - title: A Christmas Carol
+    year: 1984
+    imdb: tt0087056
+- slug: a-clockwork-orange-1962
+  name: A Clockwork Orange
+  author: Anthony Burgess
+  year: 1962
+  movies:
+  - title: A Clockwork Orange
+    year: 1971
+    imdb: tt0066921
+- slug: a-comedy-of-errors-1594
+  name: A Comedy of Errors
+  author: William Shakespeare
+  year: 1594
+- slug: a-confederacy-of-dunces-1980
+  name: A Confederacy of Dunces
+  author: John Kennedy Toole
+  year: 1980
+- slug: a-connecticut-yankee-in-king-arthurs-court-1889
+  name: A Connecticut Yankee in King Arthur's Court
+  author: Mark Twain
+  year: 1889
+- slug: a-girl-from-yamhill-1988
+  name: A Girl from Yamhill
+  author: Beverly Cleary
+  year: 1988
+- slug: a-heartbreaking-work-of-staggering-genius-2000
+  name: A Heartbreaking Work of Staggering Genius
+  author: Dave Eggers
+  year: 2000
+- slug: a-mencken-chrestomathy-1949
+  name: A Mencken Chrestomathy
+  author: H.L. Mencken
+  year: 1949
+- slug: a-midsummer-nights-dream-1595
+  name: A Midsummer Night's Dream
+  author: William Shakespeare
+  year: 1595
+- slug: a-monetary-history-of-the-united-states-1963
+  name: A Monetary History of the United States
+  author: Milton Friedman
+  year: 1963
+- slug: a-month-of-sundays-2002
+  name: 'A Month of Sundays: Searching for The Spirit and My Sister'
+  author: Julie Mars
+  year: 2002
+- slug: a-movable-feast-1964
+  name: A Movable Feast
+  author: Ernest Hemingway
+  year: 1964
+- slug: a-passage-to-india-1924
+  name: A Passage to India
+  author: E.M. Forster
+  year: 1924
+- slug: a-quiet-storm-2002
+  name: A Quiet Storm
+  author: Rachel Howzell Hall
+  year: 2002
+- slug: a-room-of-ones-own-1929
+  name: A Room of One's Own
+  author: Virginia Woolf
+  year: 1929
+- slug: a-room-with-a-view-1908
+  name: A Room with a View
+  author: E.M. Forster
+  year: 1908
+- slug: a-separate-peace-1959
+  name: A Separate Peace
+  author: John Knowles
+  year: 1959
+- slug: a-song-of-ice-and-fire-1996
+  name: A Song of Ice and Fire
+  author: George R.R. Martin
+  year: 1996
+- slug: a-streetcar-named-desire-1947
+  name: A Streetcar Named Desire
+  author: Tennessee Williams
+  year: 1947
+- slug: a-tale-of-two-cities-1859
+  name: A Tale of Two Cities
+  author: Charles Dickens
+  year: 1859
+- slug: a-tree-grows-in-brooklyn-1943
+  name: A Tree Grows in Brooklyn
+  author: Betty Smith
+  year: 1943
+- slug: absolute-rage-2002
+  name: Absolute Rage
+  author: Robert Tanenbaum
+  year: 2002
+- slug: adventures-of-huckleberry-finn-1884
+  name: Adventures of Huckleberry Finn
+  author: Mark Twain
+  year: 1884
+  movies:
+  - title: The Adventures of Huckleberry Finn
+    year: 1939
+    imdb: tt0031020
+  - title: The Adventures of Huck Finn
+    year: 1993
+    imdb: tt0106223
+- slug: adventures-of-tom-sawyer-1876
+  name: Adventures of Tom Sawyer
+  author: Mark Twain
+  year: 1876
+  movies:
+  - title: The Adventures of Tom Sawyer
+    year: 1938
+    imdb: tt0029844
+- slug: alices-adventures-in-wonderland-1865
+  name: Alice's Adventures in Wonderland
+  author: Lewis Carroll
+  year: 1865
+  movies:
+  - title: Alice in Wonderland
+    year: 1951
+    imdb: tt0043274
+  - title: Alice in Wonderland
+    year: 2010
+    imdb: tt1014759
+- slug: all-the-presidents-men-1974
+  name: All the President's Men
+  author: Carl Bernstein and Bob Woodward
+  year: 1974
+- slug: all-the-pretty-horses-1992
+  name: All the Pretty Horses
+  author: Cormac McCarthy
+  year: 1992
+- slug: american-prometheus-2005
+  name: American Prometheus
+  author: Kai Bird and Martin J. Sherwin
+  year: 2005
+  movies:
+  - title: Oppenheimer
+    year: 2023
+    imdb: tt15398776
+- slug: american-steel-1991
+  name: American Steel
+  author: Richard Preston
+  year: 1991
+- slug: an-american-tragedy-1925
+  name: An American Tragedy
+  author: Theodore Dreiser
+  year: 1925
+- slug: and-then-there-were-none-1939
+  name: And Then There Were None
+  author: Agatha Christie
+  year: 1939
+- slug: angelas-ashes-1996
+  name: Angela's Ashes
+  author: Frank McCourt
+  year: 1996
+- slug: angels-in-america-1993
+  name: Angels in America
+  author: Tony Kushner
+  year: 1993
+- slug: anna-karenina-1878
+  name: Anna Karenina
+  author: Leo Tolstoy
+  year: 1878
+  movies:
+  - title: Anna Karenina
+    year: 1935
+    imdb: tt0026071
+  - title: Anna Karenina
+    year: 1967
+    imdb: tt0061359
+  - title: Anna Karenina
+    year: 2012
+    imdb: tt1781769
+- slug: as-i-lay-dying-1930
+  name: As I Lay Dying
+  author: William Faulkner
+  year: 1930
+- slug: atonement-2001
+  name: Atonement
+  author: Ian McEwan
+  year: 2001
+  movies:
+  - title: Atonement
+    year: 2007
+    imdb: tt0783233
+- slug: autobiography-of-a-face-1994
+  name: Autobiography of a Face
+  author: Lucy Grealy
+  year: 1994
+- slug: babe-1983
+  name: Babe
+  author: Dick King-Smith
+  year: 1983
+- slug: backlash-1991
+  name: 'Backlash: The Undeclared War Against American Women'
+  author: Susan Faludi
+  year: 1991
+- slug: bad-dirt-2004
+  name: Bad Dirt
+  author: Annie Proulx
+  year: 2004
+- slug: balzac-and-the-little-chinese-seamstress-2000
+  name: Balzac and the Little Chinese Seamstress
+  author: Dai Sijie
+  year: 2000
+- slug: bambi-1923
+  name: 'Bambi: A Life in the Woods'
+  author: Felix Salten
+  year: 1923
+  movies:
+  - title: Bambi
+    year: 1942
+    imdb: tt0034492
+- slug: basic-writings-of-nietzsche-1967
+  name: Basic Writings of Nietzsche
+  author: Friedrich Nietzsche
+  year: 1967
+- slug: bel-canto-2001
+  name: Bel Canto
+  author: Ann Patchett
+  year: 2001
+- slug: beloved-1987
+  name: Beloved
+  author: Toni Morrison
+  year: 1987
+- slug: beowulf-1000
+  name: Beowulf
+  author: Anonymous
+  year: 1000
+  movies:
+  - title: Beowulf
+    year: 1999
+    imdb: tt0120604
+  - title: Beowulf
+    year: 2007
+    imdb: tt0442933
+- slug: billy-budd-and-other-tales-1924
+  name: Billy Budd & Other Tales
+  author: Melville
+  year: 1924
+- slug: bitch-1998
+  name: 'Bitch: In Praise of Difficult Women'
+  author: Elizabeth Wurtzel
+  year: 1998
+- slug: brave-new-world-1932
+  name: Brave New World
+  author: Aldous Huxley
+  year: 1932
+  movies:
+  - title: Brave New World
+    year: 1980
+    imdb: tt0080468
+  - title: Brave New World
+    year: 1998
+    imdb: tt0145600
+- slug: breakfast-at-tiffanys-1958
+  name: Breakfast at Tiffany's
+  author: Truman Capote
+  year: 1958
+  movies:
+  - title: Breakfast at Tiffany's
+    year: 1961
+    imdb: tt0054698
+- slug: brick-lane-2003
+  name: Brick Lane
+  author: Monica Ali
+  year: 2003
+- slug: bridget-joness-diary-1996
+  name: Bridget Jones's Diary
+  author: Helen Fielding
+  year: 1996
+  movies:
+  - title: Bridget Jones's Diary
+    year: 2001
+    imdb: tt0243155
+- slug: brigadoon-1947
+  name: Brigadoon
+  author: Alan Jay Lerner
+  year: 1947
+- slug: brokeback-mountain-1997
+  name: Brokeback Mountain
+  author: Annie Proulx
+  year: 1997
+  movies:
+  - title: Brokeback Mountain
+    year: 2005
+    imdb: tt0388795
+- slug: call-me-by-your-name-2007
+  name: Call Me by Your Name
+  author: André Aciman
+  year: 2007
+  movies:
+  - title: Call Me by Your Name
+    year: 2017
+    imdb: tt5726616
+- slug: call-of-the-wild-1903
+  name: Call of the Wild
+  author: Jack Longdon
+  year: 1903
+- slug: candide-1759
+  name: Candide
+  author: Voltaire
+  year: 1759
+- slug: captain-corellis-mandolin-1994
+  name: Captain Corelli's Mandolin
+  author: Louis de Bernieres
+  year: 1994
+- slug: carrie-1974
+  name: Carrie
+  author: Stephen King
+  year: 1974
+  movies:
+  - title: Carrie
+    year: 1976
+    imdb: tt0074285
+  - title: Carrie
+    year: 2013
+    imdb: tt1939659
+- slug: catch-22-1961
+  name: Catch-22
+  author: Joseph Heller
+  year: 1961
+  movies:
+  - title: Catch-22
+    year: 1970
+    imdb: tt0065528
+- slug: charlie-and-the-chocolate-factory-1964
+  name: Charlie & the Chocolate Factory
+  author: Roald Dahl
+  year: 1964
+  movies:
+  - title: Willy Wonka & the Chocolate Factory
+    year: 1971
+    imdb: tt0067992
+  - title: Charlie and the Chocolate Factory
+    year: 2005
+    imdb: tt0367594
+- slug: charlottes-web-1952
+  name: Charlotte's Web
+  author: E B White
+  year: 1952
+  movies:
+  - title: Charlotte's Web
+    year: 1973
+    imdb: tt0070016
+  - title: Charlotte's Web
+    year: 2006
+    imdb: tt0413895
+- slug: christine-1983
+  name: Christine
+  author: Stephen King
+  year: 1983
+- slug: chrysanthemum-1991
+  name: Chrysanthemum
+  author: Kevin Henkes
+  year: 1991
+- slug: cinderella-1812
+  name: Cinderella
+  author: Brothers Grimm
+  year: 1812
+- slug: clifford-the-big-red-dog-1963
+  name: Clifford the Big Red Dog
+  author: Norman Bridwell
+  year: 1963
+- slug: cloud-atlas-2004
+  name: Cloud Atlas
+  author: David Mitchell
+  year: 2004
+  movies:
+  - title: Cloud Atlas
+    year: 2012
+    imdb: tt1371111
+- slug: complete-novels-1998
+  name: Complete Novels
+  author: Dawn Powell
+  year: 1998
+- slug: complete-stories-1995
+  name: Complete Stories
+  author: Dorothy Parker
+  year: 1995
+- slug: consider-the-lobster-2005
+  name: 'Consider the Lobster: And Other Essays'
+  author: David Foster Wallace
+  year: 2005
+- slug: contact-1985
+  name: Contact
+  author: Carl Sagan
+  year: 1985
+  movies:
+  - title: Contact
+    year: 1997
+    imdb: tt0118884
+- slug: cousin-bette-1846
+  name: Cousin Bette
+  author: Honore de Balzac
+  year: 1846
+- slug: crazy-rich-asians-2013
+  name: Crazy Rich Asians
+  author: Kevin Kwan
+  year: 2013
+  movies:
+  - title: Crazy Rich Asians
+    year: 2018
+    imdb: tt3104988
+- slug: crime-and-punishment-1866
+  name: Crime and Punishment
+  author: Fyodor Dostoevsky
+  year: 1866
+- slug: cujo-1981
+  name: Cujo
+  author: Stephen King
+  year: 1981
+- slug: cyrano-de-bergerac-1897
+  name: Cyrano De Bergerac
+  author: Edmond Rostand
+  year: 1897
+  movies:
+  - title: Cyrano de Bergerac
+    year: 1950
+    imdb: tt0042367
+  - title: Cyrano de Bergerac
+    year: 1990
+    imdb: tt0099334
+- slug: daughter-of-fortune-1999
+  name: Daughter of Fortune
+  author: Isabel Allende
+  year: 1999
+- slug: david-and-lisa-1961
+  name: David and Lisa
+  author: Dr. Theodore Issac Rubin, M.D.
+  year: 1961
+- slug: david-copperfield-1850
+  name: David Copperfield
+  author: Charles Dickens
+  year: 1850
+- slug: dead-souls-1842
+  name: Dead Souls
+  author: Nikolai Gogol
+  year: 1842
+- slug: death-of-a-salesman-1949
+  name: Death of a Salesman
+  author: Arthur Miller
+  year: 1949
+- slug: deenie-1973
+  name: Deenie
+  author: Judy Blume
+  year: 1973
+- slug: delta-of-venus-1977
+  name: Delta of Venus
+  author: Anais Nin
+  year: 1977
+- slug: demons-1872
+  name: Demons
+  author: Fyodor Dostoyevsky
+  year: 1872
+- slug: diary-of-virginia-wolf-1977
+  name: Diary of Virginia Wolf, Volumes 1,3,4,5
+  author: Edited by Anne Olivier Bell
+  year: 1977
+- slug: divergent-2011
+  name: Divergent
+  author: Veronica Roth
+  year: 2011
+  movies:
+  - title: Divergent
+    year: 2014
+    imdb: tt1840309
+  - title: Insurgent
+    year: 2015
+    imdb: tt2908446
+- slug: do-androids-dream-of-electric-sheep-1968
+  name: Do Androids Dream of Electric Sheep?
+  author: Philip K. Dick
+  year: 1968
+  movies:
+  - title: Blade Runner
+    year: 1982
+    imdb: tt0083658
+- slug: don-quixote-1605
+  name: Don Quixote
+  author: Cervantes
+  year: 1605
+- slug: downpour-2002
+  name: Downpour
+  author: Nick Holmes
+  year: 2002
+- slug: dracula-1897
+  name: Dracula
+  author: Bram Stoker
+  year: 1897
+  movies:
+  - title: Dracula
+    year: 1931
+    imdb: tt0021814
+  - title: Horror of Dracula
+    year: 1958
+    imdb: tt0051554
+  - title: Bram Stoker's Dracula
+    year: 1992
+    imdb: tt0103874
+- slug: driving-miss-daisy-1987
+  name: Driving Miss Daisy
+  author: Alfred Uhrv
+  year: 1987
+- slug: eat-pray-love-2006
+  name: Eat, Pray, Love
+  author: Elizabeth Gilbert
+  year: 2006
+  movies:
+  - title: Eat Pray Love
+    year: 2010
+    imdb: tt0879870
+- slug: edgar-allan-poe-complete-tales-and-poems-1982
+  name: 'Edgar Allan Poe: Complete Tales & Poems'
+  author: Edgar Allan Poe
+  year: 1982
+- slug: eleanor-roosevelt-1992
+  name: Eleanor Roosevelt
+  author: Blanche Wiesen Cook
+  year: 1992
+- slug: elements-300bc
+  name: Elements
+  author: Euclid
+  year: -300
+- slug: ella-minnow-pea-2001
+  name: 'Ella Minnow Pea: A Novel in Letters'
+  author: Mark Dunn
+  year: 2001
+- slug: elmer-gantry-1927
+  name: Elmer Gantry
+  author: Sinclair Lewis
+  year: 1927
+- slug: eloise-at-the-plaza-1955
+  name: Eloise at the Plaza
+  author: Kay Thompson
+  year: 1955
+- slug: emily-the-strange-2001
+  name: Emily the Strange
+  author: Roger Reger
+  year: 2001
+- slug: emma-1815
+  name: Emma
+  author: Jane Austen
+  year: 1815
+  movies:
+  - title: Emma
+    year: 1996
+    imdb: tt0116191
+  - title: Emma.
+    year: 2020
+    imdb: tt9214832
+- slug: empire-falls-2001
+  name: Empire Falls
+  author: Richard Russo
+  year: 2001
+- slug: encyclopedia-brown-boy-detective-1963
+  name: 'Encyclopedia Brown: Boy Detective'
+  author: Donald J. Sobol
+  year: 1963
+- slug: essentials-of-economics-2003
+  name: Essentials of Economics, 3rd. Edition
+  author: Bradley R. Schiller
+  year: 2003
+- slug: ethan-frome-1911
+  name: Ethan Frome
+  author: Edith Wharton
+  year: 1911
+- slug: ethics-1677
+  name: Ethics
+  author: Spinoza
+  year: 1677
+- slug: eva-luna-1987
+  name: Eva Luna
+  author: Isabel Allende
+  year: 1987
+- slug: everything-is-illuminated-2002
+  name: Everything Is Illuminated
+  author: Jonathan Safran Foer
+  year: 2002
+- slug: extravagance-2002
+  name: Extravagance
+  author: Gary Krist
+  year: 2002
+- slug: fahrenheit-451-1953
+  name: Fahrenheit 451
+  author: Ray Bradbury
+  year: 1953
+  movies:
+  - title: Fahrenheit 451
+    year: 1966
+    imdb: tt0060390
+- slug: fahrenheit-911-2004
+  name: Fahrenheit 9/11
+  author: Michael Moore
+  year: 2004
+  has_movie: true
+- slug: fat-land-2003
+  name: 'Fat Land: How Americans Became the Fattest People in the World'
+  author: Greg Critser
+  year: 2003
+- slug: fear-and-loathing-in-las-vegas-1971
+  name: Fear and Loathing in Las Vegas
+  author: Hunter S. Thompson
+  year: 1971
+- slug: fiddler-on-the-roof-1964
+  name: Fiddler on the Roof
+  author: Joseph Stein
+  year: 1964
+- slug: finnegans-wake-1939
+  name: Finnegan's Wake
+  author: James Joyce
+  year: 1939
+- slug: firewall-1997
+  name: Firewall
+  author: Lawrence Walsh
+  year: 1997
+- slug: first-folio-1623
+  name: First Folio
+  author: William Shakespeare
+  year: 1623
+- slug: flavor-of-the-month-1993
+  name: Flavor of the Month
+  author: Olivia Goldsmith
+  year: 1993
+- slug: fletch-1974
+  name: Fletch
+  author: Gregory McDonald
+  year: 1974
+- slug: flowers-for-algernon-1959
+  name: Flowers for Algernon
+  author: Daniel Keyes
+  year: 1959
+- slug: fodors-selected-hotels-of-europe-1960
+  name: Fodor's Selected Hotels of Europe
+  author: ''
+  year: 1960
+- slug: frankenstein-1818
+  name: Frankenstein
+  author: Mary Shelley
+  year: 1818
+  movies:
+  - title: Frankenstein
+    year: 1931
+    imdb: tt0021884
+  - title: Mary Shelley's Frankenstein
+    year: 1994
+    imdb: tt0109836
+- slug: franny-and-zooey-1961
+  name: Franny and Zooey
+  author: J.D. Salinger
+  year: 1961
+- slug: freaky-friday-1972
+  name: Freaky Friday
+  author: Mary Rodgers
+  year: 1972
+- slug: frida-1983
+  name: Frida
+  author: Hayden Herrera
+  year: 1983
+- slug: galapagos-1985
+  name: Galapagos
+  author: Kurt Vonnegut
+  year: 1985
+- slug: gender-trouble-1990
+  name: Gender Trouble
+  author: Judith Butler
+  year: 1990
+- slug: george-w-bushism-2001
+  name: 'George W. Bushism: The Slate Book of the Accidental Wit and Wisdom of our 43rd President'
+  author: Jacob Weisberg
+  year: 2001
+- slug: gidget-1957
+  name: Gidget
+  author: Fredrick Kohner
+  year: 1957
+- slug: gigi-1944
+  name: Gigi
+  author: Collette
+  year: 1944
+- slug: girl-interrupted-1993
+  name: Girl, Interrupted
+  author: Susanna Kaysen
+  year: 1993
+  movies:
+  - title: Girl, Interrupted
+    year: 1999
+    imdb: tt0172493
+- slug: glengarry-glen-ross-1984
+  name: Glengarry Glen Ross
+  author: David Marmet
+  year: 1984
+- slug: goldilocks-and-the-three-bears-1998
+  name: Goldilocks and the Three Bears/Bears Should Share! (Another Point of View)
+  author: Alvin Granowsky
+  year: 1998
+- slug: gone-girl-2012
+  name: Gone Girl
+  author: Gillian Flynn
+  year: 2012
+  movies:
+  - title: Gone Girl
+    year: 2014
+    imdb: tt2267998
+- slug: gone-with-the-wind-1936
+  name: Gone with the Wind
+  author: Margaret Mitchell
+  year: 1936
+  movies:
+  - title: Gone with the Wind
+    year: 1939
+    imdb: tt0031381
+- slug: goodnight-spoon-2011
+  name: Goodnight Spoon
+  author: Keith Richards
+  year: 2011
+- slug: great-expectations-1861
+  name: Great Expectations
+  author: Charles Dickens
+  year: 1861
+- slug: gullivers-travels-1726
+  name: Gulliver's Travels
+  author: Jonathan Swift
+  year: 1726
+  movies:
+  - title: Gulliver's Travels
+    year: 1939
+    imdb: tt0031397
+  - title: Gulliver's Travels
+    year: 2010
+    imdb: tt1320261
+- slug: guys-and-dolls-1932
+  name: Guys and Dolls
+  author: Damon Runyon
+  year: 1932
+- slug: haiku-volume-2-spring-1950
+  name: 'Haiku, Volume 2: Spring'
+  author: R.H. Blyth
+  year: 1950
+- slug: hamlet-1603
+  name: Hamlet
+  author: William Shakespeare
+  year: 1603
+  movies:
+  - title: Hamlet
+    year: 1948
+    imdb: tt0040416
+  - title: Hamlet
+    year: 1996
+    imdb: tt0116477
+  - title: Hamlet
+    year: 2000
+    imdb: tt0171359
+- slug: harrold-and-the-purple-crayon-1955
+  name: Harrold & the Purple Crayon
+  author: Crockett Johnson
+  year: 1955
+- slug: harry-potter-and-the-goblet-of-fire-2000
+  name: Harry Potter and the Goblet of Fire
+  author: J.K. Rowling
+  year: 2000
+  movies:
+  - title: Harry Potter and the Goblet of Fire
+    year: 2005
+    imdb: tt0330373
+- slug: harry-potter-and-the-sorcerers-stone-1997
+  name: Harry Potter and the Sorcerer's Stone
+  author: J.K. Rowling
+  year: 1997
+  movies:
+  - title: Harry Potter and the Sorcerer's Stone
+    year: 2001
+    imdb: tt0241527
+- slug: heart-of-darkness-1899
+  name: Heart of Darkness
+  author: Joseph Conrad
+  year: 1899
+- slug: hells-angels-1967
+  name: 'Hell''s Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs'
+  author: Hunter S. Thompson
+  year: 1967
+- slug: helter-skelter-1974
+  name: 'Helter Skelter: The True Story of the Manson Murders'
+  author: Vincent Bugliosi and Curt Gentry
+  year: 1974
+- slug: henry-iv-part-i-1597
+  name: Henry IV, part I
+  author: William Shakespeare
+  year: 1597
+- slug: henry-iv-part-ii-1600
+  name: Henry IV, part II
+  author: William Shakespeare
+  year: 1600
+- slug: henry-v-1599
+  name: Henry V
+  author: William Shakespeare
+  year: 1599
+- slug: henry-vi-1591
+  name: Henry VI
+  author: William Shakespeare
+  year: 1591
+- slug: hes-just-not-that-into-you-2004
+  name: He's Just Not That Into You
+  author: Greg Behrendt and Liz Tuccillo
+  year: 2004
+- slug: high-fidelity-1995
+  name: High Fidelity
+  author: Nick Hornby
+  year: 1995
+- slug: history-of-the-peloponnesian-war-400bc
+  name: History of the Peloponnesian War
+  author: Thucydides
+  year: -400
+- slug: hockey-for-dummies-1997
+  name: Hockey for Dummies
+  author: John Davidson and John Steinbreder
+  year: 1997
+- slug: holidays-on-ice-1997
+  name: 'Holidays on Ice: Stories'
+  author: David Sedaris
+  year: 1997
+- slug: horton-hears-a-who-1954
+  name: Horton Hears a Who!
+  author: Dr. Seuss
+  year: 1954
+- slug: house-of-sand-and-fog-1999
+  name: House of Sand and Fog
+  author: Andre Dubus III
+  year: 1999
+- slug: how-the-grinch-stole-christmas-1957
+  name: How the Grinch Stole Christmas
+  author: Dr. Seuss
+  year: 1957
+- slug: how-the-light-gets-in-2003
+  name: How the Light Gets In
+  author: M.J. Hyland
+  year: 2003
+- slug: how-to-breathe-underwater-2003
+  name: How to Breathe Underwater
+  author: Julie Orringer
+  year: 2003
+- slug: how-we-are-hungry-2004
+  name: How We Are Hungry
+  author: Dave Eggers
+  year: 2004
+- slug: howl-and-other-poems-1956
+  name: Howl and Other Poems
+  author: Allen Ginsberg
+  year: 1956
+- slug: i-feel-bad-about-my-neck-2006
+  name: I Feel Bad About My Neck
+  author: Nora Ephron
+  year: 2006
+- slug: im-with-the-band-1987
+  name: I'm With the Band
+  author: Pamela des Barres
+  year: 1987
+- slug: in-cold-blood-1966
+  name: In Cold Blood
+  author: Truman Capote
+  year: 1966
+  movies:
+  - title: In Cold Blood
+    year: 1967
+    imdb: tt0061809
+- slug: in-the-shadow-of-young-girls-in-flower-1919
+  name: In the Shadow of Young Girls in Flower
+  author: Marcel Proust
+  year: 1919
+- slug: indiana-1832
+  name: Indiana
+  author: George Sand
+  year: 1832
+- slug: inherit-the-wind-1955
+  name: Inherit the Wind
+  author: Jerome Lawrence and Robert E. Lee
+  year: 1955
+- slug: ironweed-1983
+  name: Ironweed
+  author: William J. Kennedy
+  year: 1983
+- slug: it-ends-with-us-2016
+  name: It Ends with Us
+  author: Colleen Hoover
+  year: 2016
+  movies:
+  - title: It Ends with Us
+    year: 2024
+    imdb: tt21822898
+- slug: it-takes-a-village-1996
+  name: It Takes a Village
+  author: Hillary Rodham Clinton
+  year: 1996
+- slug: jane-eyre-1847
+  name: Jane Eyre
+  author: Charlotte Bronte
+  year: 1847
+  movies:
+  - title: Jane Eyre
+    year: 1943
+    imdb: tt0036969
+  - title: Jane Eyre
+    year: 2011
+    imdb: tt1229822
+- slug: julius-caesar-1599
+  name: Julius Caesar
+  author: William Shakespeare
+  year: 1599
+- slug: jurassic-park-1990
+  name: Jurassic Park
+  author: Michael Crichton
+  year: 1990
+  movies:
+  - title: Jurassic Park
+    year: 1993
+    imdb: tt0107290
+- slug: just-a-couple-of-days-2001
+  name: Just a Couple of Days
+  author: Tony Vigorito
+  year: 2001
+- slug: killers-of-the-flower-moon-2017
+  name: Killers of the Flower Moon
+  author: David Grann
+  year: 2017
+  movies:
+  - title: Killers of the Flower Moon
+    year: 2023
+    imdb: tt5537002
+- slug: kitchen-confidential-2000
+  name: 'Kitchen Confidential: Adventures in the Culinary Underbelly'
+  author: Anthony Bourdain
+  year: 2000
+- slug: lady-chatterleys-lover-1928
+  name: Lady Chatterleys' Lover
+  author: D.H. Lawrence
+  year: 1928
+  movies:
+  - title: Lady Chatterley's Lover
+    year: 1981
+    imdb: tt0082640
+  - title: Lady Chatterley's Lover
+    year: 2022
+    imdb: tt14369780
+- slug: larousse-wine-2001
+  name: Larousse Wine
+  author: David Cobbold
+  year: 2001
+- slug: leaves-of-grass-1855
+  name: Leaves of Grass
+  author: Walt Whitman
+  year: 1855
+- slug: les-miserables-1862
+  name: Les Miserables
+  author: Victor Hugo
+  year: 1862
+  movies:
+  - title: Les Misérables
+    year: 1935
+    imdb: tt0026725
+  - title: Les Misérables
+    year: 1998
+    imdb: tt0119683
+  - title: Les Misérables
+    year: 2012
+    imdb: tt1707386
+- slug: less-than-zero-1985
+  name: Less Than Zero
+  author: Bret Easton Ellis
+  year: 1985
+- slug: letters-of-ayn-rand-1995
+  name: Letters of Ayn Rand
+  author: Ayn Rand
+  year: 1995
+- slug: letters-of-edith-wharton-1988
+  name: Letters of Edith Wharton
+  author: R.W.B. Lewis
+  year: 1988
+- slug: letters-to-a-young-poet-1929
+  name: Letters to a Young Poet
+  author: Rainer Maria Rilke
+  year: 1929
+- slug: lies-and-the-lying-liars-who-tell-them-2003
+  name: Lies and the Lying Liars Who Tell Them
+  author: Al Franken
+  year: 2003
+- slug: life-of-pi-2001
+  name: Life of Pi
+  author: Yann Martel
+  year: 2001
+  movies:
+  - title: Life of Pi
+    year: 2012
+    imdb: tt0454876
+- slug: life-of-samuel-johnson-1791
+  name: Life of Samuel Johnson
+  author: James Boswell
+  year: 1791
+- slug: like-water-for-chocolate-1989
+  name: Like Water for Chocolate
+  author: Laura Esquivel
+  year: 1989
+- slug: lisa-and-david-1961
+  name: Lisa and David
+  author: Dr. Theodore Isaac Rubin, M.D.
+  year: 1961
+- slug: little-dorrit-1857
+  name: Little Dorrit
+  author: Charles Dickens
+  year: 1857
+- slug: little-house-in-the-big-woods-1932
+  name: Little House in the Big Woods
+  author: Laura Ingalls Wilder
+  year: 1932
+- slug: little-house-on-the-prairie-1935
+  name: Little House on the Prairie
+  author: Laura Ingalls Wilder
+  year: 1935
+- slug: little-women-1868
+  name: Little Women
+  author: Louisa May Alcott
+  year: 1868
+  movies:
+  - title: Little Women
+    year: 1949
+    imdb: tt0041594
+  - title: Little Women
+    year: 1994
+    imdb: tt0110367
+  - title: Little Women
+    year: 2019
+    imdb: tt3281548
+- slug: living-history-2003
+  name: Living History
+  author: Hillary Rodham Clinton
+  year: 2003
+- slug: lolita-1955
+  name: Lolita
+  author: Vladimir Nabokov
+  year: 1955
+  movies:
+  - title: Lolita
+    year: 1962
+    imdb: tt0056193
+  - title: Lolita
+    year: 1997
+    imdb: tt0119558
+- slug: lord-jim-1900
+  name: Lord Jim
+  author: Joseph Conrad
+  year: 1900
+- slug: lord-of-the-flies-1954
+  name: Lord of the Flies
+  author: William Golding
+  year: 1954
+  movies:
+  - title: Lord of the Flies
+    year: 1963
+    imdb: tt0057261
+  - title: Lord of the Flies
+    year: 1990
+    imdb: tt0100054
+- slug: love-story-1970
+  name: Love Story
+  author: Erich Segal
+  year: 1970
+- slug: macbeth-1606
+  name: Macbeth
+  author: William Shakespeare
+  year: 1606
+- slug: madame-bovary-1856
+  name: Madame Bovary
+  author: Gustave Flaubert
+  year: 1856
+- slug: madeline-1939
+  name: Madeline
+  author: Ludwig Bemelmans
+  year: 1939
+- slug: marathon-man-1974
+  name: Marathon Man
+  author: William Goldman
+  year: 1974
+- slug: mary-poppins-1934
+  name: Mary Poppins
+  author: P. L. Travers and Mary Shepard
+  year: 1934
+- slug: mathematical-principles-of-natural-philosophy-1687
+  name: Mathematical Principles of Natural Philosophy
+  author: Isaac Newton
+  year: 1687
+- slug: matisse-the-master-2005
+  name: 'Matisse the Master: A Life of Mattise'
+  author: Hilary Spurling
+  year: 2005
+- slug: me-before-you-2012
+  name: Me Before You
+  author: Jojo Moyes
+  year: 2012
+  movies:
+  - title: Me Before You
+    year: 2016
+    imdb: tt2674426
+- slug: me-talk-pretty-one-day-2000
+  name: Me Talk Pretty One Day
+  author: David Sedaris
+  year: 2000
+- slug: memoirs-of-a-dutiful-daughter-1958
+  name: Memoirs of a Dutiful Daughter
+  author: Simone de Beauvoir
+  year: 1958
+- slug: memoirs-of-general-william-t-sherman-1875
+  name: Memoirs of General William T. Sherman
+  author: William Tecumseh Sherman
+  year: 1875
+- slug: men-are-from-mars-women-are-from-venus-1992
+  name: Men Are from Mars, Women Are from Venus
+  author: John Gray, Ph.D.
+  year: 1992
+- slug: middlesex-2002
+  name: Middlesex
+  author: Jeffrey Eugenides
+  year: 2002
+- slug: misery-1987
+  name: Misery
+  author: Stephen King
+  year: 1987
+  movies:
+  - title: Misery
+    year: 1990
+    imdb: tt0100157
+- slug: mistress-of-mellyn-1960
+  name: Mistress of Mellyn
+  author: Victoria Holt
+  year: 1960
+- slug: moby-dick-1851
+  name: Moby Dick
+  author: Herman Melville
+  year: 1851
+- slug: moliere-a-biography-1906
+  name: 'Moliere: A Biography'
+  author: Hobart Chatfield Taylor
+  year: 1906
+- slug: molloy-1951
+  name: Molloy
+  author: Samuel Beckett
+  year: 1951
+- slug: mommie-dearest-1978
+  name: Mommie Dearest
+  author: Christina Crawford
+  year: 1978
+- slug: monsieur-proust-1973
+  name: Monsieur Proust
+  author: Celeste Albaret
+  year: 1973
+- slug: motley-crue-2001
+  name: Motley Crue
+  author: Seamus Craic
+  year: 2001
+- slug: mrs-dalloway-1925
+  name: Mrs. Dalloway
+  author: Virginia Woolf
+  year: 1925
+- slug: mutiny-on-the-bounty-1932
+  name: Mutiny on the Bounty
+  author: Charles Nordhoff and James Norman Hall
+  year: 1932
+- slug: my-first-summer-in-the-sierra-1911
+  name: My First Summer in the Sierra
+  author: John Muir
+  year: 1911
+- slug: my-lai-4-1970
+  name: 'My Lai 4: A Report on the Massacre and Its Aftermath'
+  author: Seymour M. Hersh
+  year: 1970
+- slug: my-life-as-author-and-editor-1993
+  name: My Life as Author and Editor
+  author: H.L. Mencken
+  year: 1993
+- slug: my-life-in-orange-2004
+  name: 'My Life in Orange: Growing Up with the Guru'
+  author: Tim Guest
+  year: 2004
+- slug: my-sisters-keeper-2004
+  name: My Sister's Keeper
+  author: Jodi Picoult
+  year: 2004
+- slug: my-struggle-2009
+  name: My Struggle
+  author: Karl Ove Knausgaard
+  year: 2009
+- slug: myra-waldos-travel-and-motoring-guide-to-europe-1960
+  name: Myra Waldo's Travel and Motoring Guide to Europe
+  author: Myra Waldo
+  year: 1960
+- slug: naked-lunch-1959
+  name: Naked Lunch
+  author: William S. Burroughs
+  year: 1959
+- slug: nancy-drew-and-the-witch-tree-symbol-1955
+  name: Nancy Drew and The Witch Tree Symbol
+  author: Carolyn Keene
+  year: 1955
+- slug: native-son-1940
+  name: Native Son
+  author: Richard Wright
+  year: 1940
+- slug: natures-metropolis-1991
+  name: 'Nature''s Metropolis: Chicago and the Great West'
+  author: William Cronon
+  year: 1991
+- slug: nervous-system-2000
+  name: 'Nervous System: Or, Losing My Mind in Literature'
+  author: Jan Lars Jensen
+  year: 2000
+- slug: new-poems-of-emily-dickinson-1993
+  name: New Poems of Emily Dickinson
+  author: Emily Dickinson
+  year: 1993
+- slug: nicholas-nickleby-1839
+  name: Nicholas Nickleby
+  author: Charles Dickens
+  year: 1839
+- slug: nickel-and-dimed-2001
+  name: 'Nickel and Dimed: On (Not) Getting By in America'
+  author: Barbara Ehrenreich
+  year: 2001
+- slug: night-1960
+  name: Night
+  author: Elie Wiesel
+  year: 1960
+- slug: no-man-is-an-island-1624
+  name: No Man is an Island
+  author: John Donne
+  year: 1624
+- slug: northanger-abbey-1817
+  name: Northanger Abbey
+  author: Jane Austen
+  year: 1817
+- slug: notes-of-a-dirty-old-man-1969
+  name: Notes of a Dirty Old Man
+  author: Charles Bukowski
+  year: 1969
+- slug: novels-1930-1942-2001
+  name: 'Novels, 1930-1942: Dance Night/Come Back to Sorrento, Turn, Magic'
+  author: ''
+  year: 2001
+- slug: november-of-the-heart-1993
+  name: November of the Heart
+  author: LaVyrle Spencer
+  year: 1993
+- slug: oedipus-rex-429bc
+  name: Oedipus Rex
+  author: Sophocles
+  year: -429
+- slug: of-human-bondage-1915
+  name: Of Human Bondage
+  author: W. Somerset Maugham
+  year: 1915
+- slug: of-mice-and-men-1937
+  name: Of Mice and Men
+  author: John Steinbeck
+  year: 1937
+  movies:
+  - title: Of Mice and Men
+    year: 1939
+    imdb: tt0031742
+  - title: Of Mice and Men
+    year: 1992
+    imdb: tt0105046
+- slug: old-school-2003
+  name: Old School
+  author: Tobias Wolff
+  year: 2003
+- slug: oliver-twist-1838
+  name: Oliver Twist
+  author: Charles Dickens
+  year: 1838
+  movies:
+  - title: Oliver Twist
+    year: 1948
+    imdb: tt0040662
+  - title: Oliver!
+    year: 1968
+    imdb: tt0063385
+  - title: Oliver Twist
+    year: 2005
+    imdb: tt0380599
+- slug: on-the-contrary-1961
+  name: On the Contrary
+  author: Mary McCarthy
+  year: 1961
+- slug: on-the-origin-of-species-1859
+  name: On the Origin of Species
+  author: Charles Darwin
+  year: 1859
+- slug: on-the-road-1957
+  name: On the Road
+  author: Jack Kerouac
+  year: 1957
+  movies:
+  - title: On the Road
+    year: 2012
+    imdb: tt0337692
+- slug: one-day-in-the-life-of-ivan-denisovich-1962
+  name: One Day in the Life of Ivan Denisovich
+  author: Aleksandr Solzhenitsyn
+  year: 1962
+- slug: one-flew-over-the-cuckoos-nest-1962
+  name: One Flew Over the Cuckoo's Nest
+  author: Ken Kesey
+  year: 1962
+  movies:
+  - title: One Flew Over the Cuckoo's Nest
+    year: 1975
+    imdb: tt0073486
+- slug: one-hundred-years-of-solitude-1967
+  name: One Hundred Years of Solitude
+  author: Gabriel Garcia Marquez
+  year: 1967
+- slug: oracle-night-2003
+  name: Oracle Night
+  author: Paul Auster
+  year: 2003
+- slug: orations-by-american-orators-1900
+  name: Orations
+  author: American Orators
+  year: 1900
+- slug: oryx-and-crake-2003
+  name: Oryx and Crake
+  author: Margaret Atwood
+  year: 2003
+- slug: othello-1603
+  name: Othello
+  author: William Shakespeare
+  year: 1603
+- slug: our-mutual-friend-1865
+  name: Our Mutual Friend
+  author: Charles Dickens
+  year: 1865
+- slug: out-of-africa-1937
+  name: Out of Africa
+  author: Isak Dineson
+  year: 1937
+- slug: outlander-1991
+  name: Outlander
+  author: Diana Gabaldon
+  year: 1991
+- slug: personal-history-1997
+  name: Personal History
+  author: Katherine Graham
+  year: 1997
+- slug: peyton-place-1956
+  name: Peyton Place
+  author: Grace Metalious
+  year: 1956
+- slug: pigs-at-the-trough-2003
+  name: Pigs at the Trough
+  author: Arianna Huffington
+  year: 2003
+- slug: pinocchio-1883
+  name: Pinocchio
+  author: Carlo Collodi
+  year: 1883
+  movies:
+  - title: Pinocchio
+    year: 1940
+    imdb: tt0032910
+  - title: Pinocchio
+    year: 2022
+    imdb: tt4593060
+- slug: please-kill-me-1996
+  name: 'Please Kill Me: The Uncensored Oral History of Punk'
+  author: Legs McNeil and Gillian McCain
+  year: 1996
+- slug: plutarchs-lives-100
+  name: Plutarch's Lives
+  author: Plutarch
+  year: 100
+- slug: poems-1842
+  name: Poems
+  author: Alfred Lord Tennyson
+  year: 1842
+- slug: points-of-view-1958
+  name: Points of View
+  author: W. Somerset Maugham
+  year: 1958
+- slug: pomeranian-1996
+  name: 'Pomeranian: An Owner''s Guide to a Happy Healthy Pet'
+  author: Happeth A. Jones
+  year: 1996
+- slug: pride-and-prejudice-1813
+  name: Pride and Prejudice
+  author: Jane Austen
+  year: 1813
+  movies:
+  - title: Pride and Prejudice
+    year: 1940
+    imdb: tt0032943
+  - title: Pride and Prejudice
+    year: 1995
+    imdb: tt0112130
+  - title: Pride & Prejudice
+    year: 2005
+    imdb: tt0414387
+- slug: primary-colors-1996
+  name: Primary Colors
+  author: Joe Klein
+  year: 1996
+- slug: property-2003
+  name: Property
+  author: Valerie Martin
+  year: 2003
+- slug: punk-the-definitive-record-of-a-revolution-2001
+  name: 'Punk: The Definitive Record of a Revolution'
+  author: Stephen Colegrave and Chris Sullivan
+  year: 2001
+- slug: pushkin-a-biography-2002
+  name: 'Pushkin: A Biography'
+  author: T.J. Binyon
+  year: 2002
+- slug: pygmalion-1913
+  name: Pygmalion
+  author: George Bernard Shaw
+  year: 1913
+- slug: quattrocento-2013
+  name: Quattrocento
+  author: James McKean
+  year: 2013
+- slug: quiller-bamboo-1991
+  name: Quiller Bamboo
+  author: Adam Hall
+  year: 1991
+- slug: r-is-for-ricochet-2004
+  name: R is for Ricochet
+  author: Sue Grafton
+  year: 2004
+- slug: rapunzel-1812
+  name: Rapunzel
+  author: the Brothers Grimm
+  year: 1812
+- slug: reading-lolita-in-tehran-2003
+  name: 'Reading Lolita in Tehran: A Memoir in Books'
+  author: Azar Nafisi
+  year: 2003
+- slug: ready-player-one-2011
+  name: Ready Player One
+  author: Ernest Cline
+  year: 2011
+  movies:
+  - title: Ready Player One
+    year: 2018
+    imdb: tt1677720
+- slug: rebecca-1938
+  name: Rebecca
+  author: Daphne du Maurier
+  year: 1938
+- slug: rebecca-of-sunnybrook-farm-1903
+  name: Rebecca of Sunnybrook Farm
+  author: Kate Douglas Wiggin
+  year: 1903
+- slug: rescuing-patty-hearst-2003
+  name: 'Rescuing Patty Hearst: Memories From a Decade Gone Mad'
+  author: Virginia Holman
+  year: 2003
+- slug: revolution-from-within-1992
+  name: 'Revolution from Within: A Book of Self-Esteem'
+  author: Gloria Steinem
+  year: 1992
+- slug: richard-iii-1593
+  name: Richard III
+  author: William Shakespeare
+  year: 1593
+- slug: rita-hayworth-and-shawshank-redemption-1982
+  name: Rita Hayworth and Shawshank Redemption
+  author: Stephen King
+  year: 1982
+- slug: roberts-rules-of-order-1876
+  name: Robert's Rules of Order
+  author: Henry Robert
+  year: 1876
+- slug: roman-fever-1934
+  name: Roman Fever
+  author: Edith Wharton
+  year: 1934
+- slug: romeo-and-juliet-1597
+  name: Romeo and Juliet
+  author: William Shakespeare
+  year: 1597
+  movies:
+  - title: Romeo and Juliet
+    year: 1968
+    imdb: tt0063518
+  - title: Romeo + Juliet
+    year: 1996
+    imdb: tt0117509
+- slug: room-2010
+  name: Room
+  author: Emma Donoghue
+  year: 2010
+  movies:
+  - title: Room
+    year: 2015
+    imdb: tt3170832
+- slug: rosemarys-baby-1967
+  name: Rosemary's Baby
+  author: Ira Levin
+  year: 1967
+- slug: s-is-for-silence-2005
+  name: S Is for Silence
+  author: Sue Grafton
+  year: 2005
+- slug: sacred-time-2003
+  name: Sacred Time
+  author: Ursula Hegi
+  year: 2003
+- slug: sailing-alone-around-the-room-2001
+  name: 'Sailing Alone Around the Room: New and Selected Poems'
+  author: Billy Collins
+  year: 2001
+- slug: sanctuary-1931
+  name: Sanctuary
+  author: William Faulkner
+  year: 1931
+- slug: savage-beauty-2001
+  name: 'Savage Beauty: The Life of Edna St. Vincent Millay'
+  author: Nancy Milford
+  year: 2001
+- slug: say-goodbye-to-daisy-miller-1916
+  name: Say Goodbye to Daisy Miller
+  author: Henry James
+  year: 1916
+- slug: schindlers-list-1982
+  name: Schindler's List
+  author: Thomas Keneally
+  year: 1982
+  movies:
+  - title: Schindler's List
+    year: 1993
+    imdb: tt0108052
+- slug: seabiscuit-2001
+  name: 'Seabiscuit: An American Legend'
+  author: Laura Hillenbrand
+  year: 2001
+- slug: secrets-of-the-flesh-1999
+  name: 'Secrets of the Flesh: A Life of Colette'
+  author: Judith Thurman
+  year: 1999
+- slug: selected-letters-of-dawn-powell-1999
+  name: 'Selected Letters of Dawn Powell: 1913-1965'
+  author: Dawn Powell
+  year: 1999
+- slug: sense-and-sensibility-1811
+  name: Sense and Sensibility
+  author: Jane Austen
+  year: 1811
+  movies:
+  - title: Sense and Sensibility
+    year: 1995
+    imdb: tt0114388
+- slug: sex-and-the-city-1997
+  name: Sex and the City
+  author: Candace Bushnell
+  year: 1997
+- slug: sexus-1949
+  name: Sexus
+  author: Henry Miller
+  year: 1949
+- slug: shane-1949
+  name: Shane
+  author: Jack Shaefer
+  year: 1949
+- slug: sherlock-holmes-1887
+  name: Sherlock Holmes
+  author: Sir Arthur Conan Doyle
+  year: 1887
+- slug: siddhartha-1922
+  name: Siddhartha
+  author: Hermann Hesse
+  year: 1922
+- slug: slaughterhouse-five-1969
+  name: Slaughterhouse-Five
+  author: Kurt Vonnegut
+  year: 1969
+- slug: sleeping-beauty-1812
+  name: Sleeping Beauty
+  author: The Brothers Grimm
+  year: 1812
+- slug: small-island-2004
+  name: Small Island
+  author: Andrea Levy
+  year: 2004
+- slug: snow-white-and-rose-red-1812
+  name: Snow White and Rose Red
+  author: the Brothers Grimm
+  year: 1812
+- slug: snows-of-kilimanjaro-1936
+  name: Snows of Kilimanjaro
+  author: Ernest Hemingway
+  year: 1936
+- slug: social-origins-of-dictatorship-and-democracy-1966
+  name: 'Social Origins of Dictatorship and Democracy: Lord and Peasant in the Making of the Modern World'
+  author: Barrington Moore
+  year: 1966
+- slug: something-wicked-this-way-comes-1962
+  name: Something Wicked This Way Comes
+  author: Ray Bradbury
+  year: 1962
+- slug: song-of-the-simple-truth-1997
+  name: 'Song of the Simple Truth: The Complete Poems of Julia de Burgos'
+  author: Julia de Burgos
+  year: 1997
+- slug: songbook-2002
+  name: Songbook
+  author: Nick Hornby
+  year: 2002
+- slug: sonnet-43-1850
+  name: Sonnet 43
+  author: Elizabeth Barrett Browning
+  year: 1850
+- slug: sonnets-from-the-portuguese-1850
+  name: Sonnets from the Portuguese
+  author: Elizabeth Barrett Browning
+  year: 1850
+- slug: sophies-choice-1979
+  name: Sophie's Choice
+  author: William Styron
+  year: 1979
+- slug: speak-memory-1951
+  name: Speak, Memory
+  author: Vladimir Nabokov
+  year: 1951
+- slug: stalin-a-biography-2004
+  name: 'Stalin: A Biography'
+  author: Robert Service
+  year: 2004
+- slug: stiff-2003
+  name: 'Stiff: The Curious Lives of Human Cadavers'
+  author: Mary Roach
+  year: 2003
+- slug: story-of-o-1954
+  name: Story of O
+  author: Pauline Reage
+  year: 1954
+- slug: stuart-little-1945
+  name: Stuart Little
+  author: E.B. White
+  year: 1945
+  movies:
+  - title: Stuart Little
+    year: 1999
+    imdb: tt0164912
+- slug: summer-of-fear-2000
+  name: Summer of Fear
+  author: T. Jefferson Parker
+  year: 2000
+- slug: swanns-way-1913
+  name: Swann's Way
+  author: Marcel Proust
+  year: 1913
+- slug: swimming-with-giants-2003
+  name: 'Swimming with Giants: My Encounters with Whales, Dolphins and Seals'
+  author: Anne Collett
+  year: 2003
+- slug: sybil-1973
+  name: Sybil
+  author: Flora Rheta Schreiber
+  year: 1973
+- slug: tender-is-the-night-1934
+  name: Tender Is The Night
+  author: F. Scott Fitzgerald
+  year: 1934
+- slug: terms-of-endearment-1975
+  name: Terms of Endearment
+  author: Larry McMurtry
+  year: 1975
+- slug: tevya-the-dairyman-and-the-railroad-stories-1894
+  name: Tevya The Dairyman and the Railroad Stories
+  author: Sholem Aleichem
+  year: 1894
+- slug: the-age-of-innocence-1920
+  name: The Age of Innocence
+  author: Edith Wharton
+  year: 1920
+- slug: the-amazing-adventures-of-kavalier-and-clay-2000
+  name: The Amazing Adventures of Kavalier & Clay
+  author: Michael Chabon
+  year: 2000
+- slug: the-andy-warhol-diaries-1989
+  name: The Andy Warhol Diaries
+  author: Edited by Pat Hackett
+  year: 1989
+- slug: the-apocalyptics-1984
+  name: 'The Apocalyptics – Cancer and the Big Lie: How Environmental Politics Controls What We Know About Cancer'
+  author: Edith Efron
+  year: 1984
+- slug: the-archidamian-war-1974
+  name: The Archidamian War
+  author: Donald Kagan
+  year: 1974
+- slug: the-armies-of-the-night-1968
+  name: 'The Armies of the Night: History as a Novel, the Novel as a History'
+  author: Norman Mailer
+  year: 1968
+- slug: the-art-of-eating-1954
+  name: The Art of Eating
+  author: M.F.K. Fisher
+  year: 1954
+- slug: the-art-of-fiction-1884
+  name: The Art of Fiction
+  author: Henry James
+  year: 1884
+- slug: the-art-of-living-125
+  name: The Art of Living
+  author: Epictetus
+  year: 125
+- slug: the-art-of-war-500bc
+  name: The Art of War
+  author: Sun Tzu
+  year: -500
+- slug: the-awakening-1899
+  name: The Awakening
+  author: Kate Chopin
+  year: 1899
+- slug: the-bell-jar-1963
+  name: The Bell Jar
+  author: Sylvia Plath
+  year: 1963
+- slug: the-best-of-martha-stewart-living-holidays-1997
+  name: 'The Best of Martha Stewart Living: Holidays'
+  author: Martha Stewart Living
+  year: 1997
+- slug: the-bhagavad-gita-400bc
+  name: The Bhagavad Gita
+  author: Anonymous
+  year: -400
+- slug: the-bielski-brothers-2003
+  name: 'The Bielski Brothers: The True Story of Three Men Who Defied the Nazis, Built a Village in the Forest, and Saved 1200 Jews'
+  author: Peter Duffy
+  year: 2003
+- slug: the-big-love-2004
+  name: The Big Love
+  author: Sarah Dunn
+  year: 2004
+- slug: the-book-thief-2005
+  name: The Book Thief
+  author: Markus Zusak
+  year: 2005
+  movies:
+  - title: The Book Thief
+    year: 2013
+    imdb: tt0816442
+- slug: the-boy-in-the-striped-pyjamas-2006
+  name: The Boy in the Striped Pyjamas
+  author: John Boyne
+  year: 2006
+  movies:
+  - title: The Boy in the Striped Pajamas
+    year: 2008
+    imdb: tt0914798
+- slug: the-bridges-of-madison-county-1992
+  name: The Bridges of Madison County
+  author: Robert James Waller
+  year: 1992
+- slug: the-brontes-1994
+  name: The Brontes
+  author: Juliet Barker
+  year: 1994
+- slug: the-canterbury-tales-1400
+  name: The Canterbury Tales
+  author: Geoffrey Chaucer
+  year: 1400
+- slug: the-catcher-in-the-rye-1951
+  name: The Catcher in the Rye
+  author: J D Salinger
+  year: 1951
+- slug: the-celebrated-jumping-frog-1865
+  name: The Celebrated Jumping Frog
+  author: Mark Twain
+  year: 1865
+- slug: the-childrens-hour-1934
+  name: The Children's Hour
+  author: Lillian Hellman
+  year: 1934
+- slug: the-code-of-the-woosters-1938
+  name: The Code of the Woosters
+  author: P.G. Wodehouse
+  year: 1938
+- slug: the-collected-stories-1980
+  name: The Collected Stories
+  author: Eudora Welty
+  year: 1980
+- slug: the-complete-poems-1981
+  name: The Complete Poems
+  author: Anne Sexton
+  year: 1981
+- slug: the-count-of-monte-cristo-1844
+  name: The Count of Monte Cristo
+  author: Alexandre Dumas
+  year: 1844
+  movies:
+  - title: The Count of Monte Cristo
+    year: 1934
+    imdb: tt0025004
+  - title: The Count of Monte Cristo
+    year: 2002
+    imdb: tt0245844
+- slug: the-crimson-petal-and-the-white-2002
+  name: The Crimson Petal and the White
+  author: Michel Faber
+  year: 2002
+- slug: the-crisis-1983
+  name: The Crisis
+  author: David Harris
+  year: 1983
+- slug: the-crucible-1953
+  name: The Crucible
+  author: Arthur Miller
+  year: 1953
+- slug: the-curious-incident-of-the-dog-in-the-night-time-2003
+  name: The Curious Incident of the Dog in the Night-Time
+  author: Mark Haddon
+  year: 2003
+- slug: the-da-vinci-code-2003
+  name: The Da Vinci Code
+  author: Dan Brown
+  year: 2003
+  movies:
+  - title: The Da Vinci Code
+    year: 2006
+    imdb: tt0382625
+- slug: the-devil-in-the-white-city-2003
+  name: 'The Devil in the White City: Murder, Magic, and Madness at the Fair that Changed America'
+  author: Erik Larson
+  year: 2003
+- slug: the-diary-of-a-young-girl-1947
+  name: The Diary of a Young Girl
+  author: Anne Frank
+  year: 1947
+- slug: the-dirt-2001
+  name: 'The Dirt: Confessions of the World''s Most Notorious Rock Band'
+  author: Tommy Lee, Vince Neil, Mick Mars and Nikki Sixx
+  year: 2001
+- slug: the-divine-comedy-1320
+  name: The Divine Comedy
+  author: Dante Alighieri
+  year: 1320
+- slug: the-divine-secrets-of-the-ya-ya-sisterhood-1996
+  name: The Divine Secrets of the Ya-Ya Sisterhood
+  author: Rebecca Wells
+  year: 1996
+- slug: the-electric-kool-aid-acid-test-1968
+  name: The Electric Kool-Aid Acid Test
+  author: Tom Wolfe
+  year: 1968
+- slug: the-executioners-song-1979
+  name: The Executioner's Song
+  author: Norman Mailer
+  year: 1979
+- slug: the-fall-of-the-athenian-empire-1987
+  name: The Fall of the Athenian Empire
+  author: Donald Kagan
+  year: 1987
+- slug: the-fault-in-our-stars-2012
+  name: The Fault in Our Stars
+  author: John Green
+  year: 2012
+  movies:
+  - title: The Fault in Our Stars
+    year: 2014
+    imdb: tt2582846
+- slug: the-fellowship-of-the-ring-1954
+  name: The Fellowship of the Ring
+  author: J.R.R. Tolkien
+  year: 1954
+  movies:
+  - title: 'The Lord of the Rings: The Fellowship of the Ring'
+    year: 2001
+    imdb: tt0120737
+- slug: the-five-people-you-meet-in-heaven-2003
+  name: The Five People You Meet in Heaven
+  author: Mitch Albom
+  year: 2003
+- slug: the-fortress-of-solitude-2003
+  name: The Fortress of Solitude
+  author: Jonathan Lethem
+  year: 2003
+- slug: the-fountainhead-1943
+  name: The Fountainhead
+  author: Ayn Rand
+  year: 1943
+- slug: the-girl-on-the-train-2015
+  name: The Girl on the Train
+  author: Paula Hawkins
+  year: 2015
+  movies:
+  - title: The Girl on the Train
+    year: 2016
+    imdb: tt3985372
+- slug: the-girl-with-the-dragon-tattoo-2005
+  name: The Girl with the Dragon Tattoo
+  author: Stieg Larsson
+  year: 2005
+  movies:
+  - title: The Girl with the Dragon Tattoo
+    year: 2009
+    imdb: tt1132620
+  - title: The Girl with the Dragon Tattoo
+    year: 2011
+    imdb: tt1568346
+- slug: the-glass-menagerie-1944
+  name: The Glass Menagerie
+  author: Tennessee Williams
+  year: 1944
+- slug: the-gnostic-gospels-1979
+  name: The Gnostic Gospels
+  author: Elaine Pagels
+  year: 1979
+- slug: the-god-of-small-things-1997
+  name: The God of Small Things
+  author: Arundhati Roy
+  year: 1997
+- slug: the-godfather-1969
+  name: The Godfather
+  author: Mario Puzo
+  year: 1969
+  movies:
+  - title: The Godfather
+    year: 1972
+    imdb: tt0068646
+- slug: the-good-soldier-1915
+  name: The Good Soldier
+  author: Ford Maddox Ford
+  year: 1915
+- slug: the-gospel-according-to-jesus-christ-1991
+  name: The Gospel According to Jesus Christ
+  author: José Saramago
+  year: 1991
+- slug: the-graduate-1963
+  name: The Graduate
+  author: Charles Webb
+  year: 1963
+  movies:
+  - title: The Graduate
+    year: 1967
+    imdb: tt0061722
+- slug: the-grapes-of-wrath-1939
+  name: The Grapes of Wrath
+  author: John Steinbeck
+  year: 1939
+  movies:
+  - title: The Grapes of Wrath
+    year: 1940
+    imdb: tt0032551
+- slug: the-great-gatsby-1925
+  name: The Great Gatsby
+  author: F. Scott Fitzgerald
+  year: 1925
+  movies:
+  - title: The Great Gatsby
+    year: 1949
+    imdb: tt0041428
+  - title: The Great Gatsby
+    year: 1974
+    imdb: tt0071577
+  - title: The Great Gatsby
+    year: 2013
+    imdb: tt1343092
+- slug: the-group-1963
+  name: The Group
+  author: Mary McCarthy
+  year: 1963
+- slug: the-hate-u-give-2017
+  name: The Hate U Give
+  author: Angie Thomas
+  year: 2017
+  movies:
+  - title: The Hate U Give
+    year: 2018
+    imdb: tt5580266
+- slug: the-help-2009
+  name: The Help
+  author: Kathryn Stockett
+  year: 2009
+  movies:
+  - title: The Help
+    year: 2011
+    imdb: tt1454029
+- slug: the-history-of-the-decline-and-fall-of-the-roman-empire-1776
+  name: The History of the Decline and Fall of the Roman Empire
+  author: Edward Gibbon
+  year: 1776
+- slug: the-history-of-tom-thumb-1621
+  name: The History of Tom Thumb
+  author: Anonymous
+  year: 1621
+- slug: the-holy-barbarians-1959
+  name: The Holy Barbarians
+  author: Lawrence Lipton
+  year: 1959
+- slug: the-house-of-the-spirits-1982
+  name: The House of the Spirits
+  author: Isabel Allende
+  year: 1982
+- slug: the-human-factor-1978
+  name: The Human Factor
+  author: Graham Greene
+  year: 1978
+- slug: the-hunchback-of-notre-dame-1831
+  name: The Hunchback of Notre Dame
+  author: Victor Hugo
+  year: 1831
+  movies:
+  - title: The Hunchback of Notre Dame
+    year: 1939
+    imdb: tt0031455
+  - title: The Hunchback of Notre Dame
+    year: 1996
+    imdb: tt0116583
+- slug: the-hunger-games-2008
+  name: The Hunger Games
+  author: Suzanne Collins
+  year: 2008
+  movies:
+  - title: The Hunger Games
+    year: 2012
+    imdb: tt1392170
+  - title: 'The Hunger Games: Catching Fire'
+    year: 2013
+    imdb: tt1951264
+- slug: the-iliad-750bc
+  name: The Iliad
+  author: Homer
+  year: -750
+- slug: the-inferno-1320
+  name: The Inferno
+  author: Dante Alighieri
+  year: 1320
+- slug: the-invitation-1999
+  name: The Invitation
+  author: Oriah
+  year: 1999
+- slug: the-joy-luck-club-1989
+  name: The Joy Luck Club
+  author: Amy Tan
+  year: 1989
+- slug: the-jungle-1906
+  name: The Jungle
+  author: Upton Sinclair
+  year: 1906
+- slug: the-jungle-book-1894
+  name: The Jungle Book
+  author: Rudyard Kipling
+  year: 1894
+  movies:
+  - title: The Jungle Book
+    year: 1967
+    imdb: tt0061852
+  - title: The Jungle Book
+    year: 2016
+    imdb: tt3040964
+- slug: the-kitchen-boy-2003
+  name: 'The Kitchen Boy: A Novel of the Last Tsar'
+  author: Robert Alexander
+  year: 2003
+- slug: the-kite-runner-2003
+  name: The Kite Runner
+  author: Khaled Hosseini
+  year: 2003
+- slug: the-last-empire-2001
+  name: 'The Last Empire: Essays 1992-2000'
+  author: Gore Vidal
+  year: 2001
+- slug: the-last-lion-volume-i-1983
+  name: 'The Last Lion: Winston Spencer Churchill, Volume I: Visions of Glory, 1874-1932'
+  author: William Manchester
+  year: 1983
+- slug: the-last-lion-volume-ii-1988
+  name: 'The Last Lion: Winston Spencer Churchill, Volume II: Alone, 1932-1940'
+  author: William Manchester
+  year: 1988
+- slug: the-last-lion-volume-iii-2012
+  name: 'The Last Lion: Winston Spencer Churchill, Volume III: Defender of the Realm, 1940-1965'
+  author: William Manchester
+  year: 2012
+- slug: the-last-word-1990
+  name: The Last Word
+  author: Graham Greene
+  year: 1990
+- slug: the-legend-of-bagger-vance-1995
+  name: The Legend of Bagger Vance
+  author: Steven Pressfield
+  year: 1995
+- slug: the-libation-bearers-458bc
+  name: The Libation Bearers
+  author: Aeschylus
+  year: -458
+- slug: the-life-changing-magic-of-tidying-up-2011
+  name: The Life-Changing Magic of Tidying Up
+  author: Marie Kondo
+  year: 2011
+- slug: the-lion-the-witch-and-the-wardrobe-1950
+  name: The Lion, the Witch and the Wardrobe
+  author: C.S. Lewis
+  year: 1950
+  movies:
+  - title: 'The Chronicles of Narnia: The Lion, the Witch and the Wardrobe'
+    year: 2005
+    imdb: tt0363771
+- slug: the-little-locksmith-1943
+  name: The Little Locksmith
+  author: Katharine Butler Hathaway
+  year: 1943
+- slug: the-little-match-girl-1845
+  name: The Little Match Girl
+  author: Hans Christian Andersen
+  year: 1845
+- slug: the-lord-of-the-rings-1954
+  name: The Lord of the Rings
+  author: J.R.R. Tolkien
+  year: 1954
+  has_movie: true
+- slug: the-lottery-1949
+  name: 'The Lottery: And Other Stories'
+  author: Shirley Jackson
+  year: 1949
+- slug: the-lovely-bones-2002
+  name: The Lovely Bones
+  author: Alice Sebold
+  year: 2002
+- slug: the-manticore-1972
+  name: The Manticore
+  author: Robertson Davies
+  year: 1972
+- slug: the-martian-2011
+  name: The Martian
+  author: Andy Weir
+  year: 2011
+  movies:
+  - title: The Martian
+    year: 2015
+    imdb: tt3659388
+- slug: the-master-and-margarita-1967
+  name: The Master and Margarita
+  author: Mikhail Bulgakov
+  year: 1967
+- slug: the-maze-runner-2009
+  name: The Maze Runner
+  author: James Dashner
+  year: 2009
+  movies:
+  - title: The Maze Runner
+    year: 2014
+    imdb: tt1790864
+  - title: 'Maze Runner: The Scorch Trials'
+    year: 2015
+    imdb: tt4046784
+- slug: the-meaning-of-consuelo-2003
+  name: The Meaning of Consuelo
+  author: Judith Ortiz Cofer
+  year: 2003
+- slug: the-meditations-180
+  name: The Meditations
+  author: Marcus Aurelius
+  year: 180
+- slug: the-merry-wives-of-windsor-1602
+  name: The Merry Wives of Windsor
+  author: William Shakespeare
+  year: 1602
+- slug: the-metamorphosis-1915
+  name: The Metamorphosis
+  author: Franz Kafka
+  year: 1915
+- slug: the-miracle-worker-1956
+  name: The Miracle Worker
+  author: William Gibson
+  year: 1956
+- slug: the-mojo-collection-2000
+  name: 'The Mojo Collection: The Greatest Albums of All Time'
+  author: Jim Irvin
+  year: 2000
+- slug: the-mourning-bride-1697
+  name: The Mourning Bride
+  author: William Congreve
+  year: 1697
+- slug: the-naked-and-the-dead-1948
+  name: The Naked and the Dead
+  author: Norman Mailer
+  year: 1948
+- slug: the-name-of-the-rose-1980
+  name: The Name of the Rose
+  author: Umberto Eco
+  year: 1980
+  movies:
+  - title: The Name of the Rose
+    year: 1986
+    imdb: tt0091605
+- slug: the-namesake-2003
+  name: The Namesake
+  author: Jhumpa Lahiri
+  year: 2003
+- slug: the-nanny-diaries-2002
+  name: The Nanny Diaries
+  author: Emma McLaughlin
+  year: 2002
+- slug: the-new-way-things-work-1998
+  name: The New Way Things Work
+  author: David Macaulay
+  year: 1998
+- slug: the-norton-anthology-of-theory-and-criticism-2001
+  name: The Norton Anthology of Theory and Criticism
+  author: William E. Cain, et al.
+  year: 2001
+- slug: the-odyssey-700bc
+  name: The Odyssey
+  author: Homer
+  year: -700
+- slug: the-old-man-and-the-sea-1952
+  name: The Old Man and the Sea
+  author: Ernest Hemingway
+  year: 1952
+- slug: the-opposite-of-fate-2003
+  name: 'The Opposite of Fate: Memories of a Writing Life'
+  author: Amy Tan
+  year: 2003
+- slug: the-orestia-1953
+  name: 'The Orestia: Agamemnon; The Libation Bearers; The Eumenides'
+  author: W.B. Stanford
+  year: 1953
+- slug: the-outbreak-of-the-peloponnesian-war-1969
+  name: The Outbreak of the Peloponnesian War
+  author: Donald Kagan
+  year: 1969
+- slug: the-outsiders-1967
+  name: The Outsiders
+  author: S.E. Hinton
+  year: 1967
+- slug: the-oxford-complete-works-of-william-shakespeare-1986
+  name: The Oxford Complete Works of William Shakespeare
+  author: William Shakespeare
+  year: 1986
+- slug: the-peace-of-nicias-and-the-sicilian-expedition-1981
+  name: The Peace of Nicias and the Sicilian Expedition
+  author: Donald Kagan
+  year: 1981
+- slug: the-perks-of-being-a-wallflower-1999
+  name: The Perks of Being a Wallflower
+  author: Stephen Chbosky
+  year: 1999
+  movies:
+  - title: The Perks of Being a Wallflower
+    year: 2012
+    imdb: tt1659337
+- slug: the-persian-puzzle-2004
+  name: The Persian Puzzle
+  author: Kenneth M. Pollack
+  year: 2004
+- slug: the-picture-of-dorian-gray-1890
+  name: The Picture of Dorian Gray
+  author: Oscar Wilde
+  year: 1890
+  movies:
+  - title: The Picture of Dorian Gray
+    year: 1945
+    imdb: tt0037988
+  - title: Dorian Gray
+    year: 2009
+    imdb: tt1235124
+- slug: the-polysyllabic-spree-2004
+  name: The Polysyllabic Spree
+  author: Nick Hornby
+  year: 2004
+- slug: the-portable-dorothy-parker-1944
+  name: The Portable Dorothy Parker
+  author: Dorothy Parker
+  year: 1944
+- slug: the-portable-nietzsche-1954
+  name: The Portable Nietzsche
+  author: Fredrich Nietzsche
+  year: 1954
+- slug: the-price-of-loyalty-2004
+  name: 'The Price of Loyalty: George W. Bush, the White House, and the Education of Paul O''Neill'
+  author: Ron Suskind
+  year: 2004
+- slug: the-princess-bride-1973
+  name: The Princess Bride
+  author: William Goldman
+  year: 1973
+  movies:
+  - title: The Princess Bride
+    year: 1987
+    imdb: tt0093779
+- slug: the-pump-house-gang-1968
+  name: The Pump House Gang
+  author: Tom Wolfe
+  year: 1968
+- slug: the-pursuit-of-love-and-love-in-a-cold-climate-1945
+  name: 'The Pursuit of Love & Love in a Cold Climate: Two Novels'
+  author: Nancy Mitford
+  year: 1945
+- slug: the-raven-1845
+  name: The Raven
+  author: Edgar Allan Poe
+  year: 1845
+- slug: the-razors-edge-1944
+  name: The Razor's Edge
+  author: W. Somerset Maugham
+  year: 1944
+- slug: the-red-badge-of-courage-1895
+  name: The Red Badge of Courage
+  author: Stephen Crane
+  year: 1895
+- slug: the-red-tent-1997
+  name: The Red Tent
+  author: Anita Diamant
+  year: 1997
+- slug: the-return-of-the-king-1955
+  name: The Return of the King
+  author: J.R.R. Tolkien
+  year: 1955
+  movies:
+  - title: 'The Lord of the Rings: The Return of the King'
+    year: 2003
+    imdb: tt0167260
+- slug: the-road-2006
+  name: The Road
+  author: Cormac McCarthy
+  year: 2006
+  movies:
+  - title: The Road
+    year: 2009
+    imdb: tt0898367
+- slug: the-rough-guide-to-europe-1982
+  name: The Rough Guide to Europe
+  author: Various Authors
+  year: 1982
+- slug: the-satanic-verses-1988
+  name: The Satanic Verses
+  author: Salman Rushdie
+  year: 1988
+- slug: the-scarecrow-of-oz-1915
+  name: The Scarecrow of Oz
+  author: Frank L. Baum
+  year: 1915
+- slug: the-scarlet-letter-1850
+  name: The Scarlet Letter
+  author: Nathaniel Hawthorne
+  year: 1850
+- slug: the-second-sex-1949
+  name: The Second Sex
+  author: Simone de Beauvoir
+  year: 1949
+- slug: the-secret-life-of-bees-2002
+  name: The Secret Life of Bees
+  author: Sue Monk Kidd
+  year: 2002
+- slug: the-shadow-of-the-wind-2001
+  name: The Shadow of the Wind
+  author: Carlos Ruiz Zafon
+  year: 2001
+- slug: the-shining-1977
+  name: The Shining
+  author: Stephen King
+  year: 1977
+  movies:
+  - title: The Shining
+    year: 1980
+    imdb: tt0081505
+- slug: the-sisters-2001
+  name: 'The Sisters: The Saga of the Mitford Family'
+  author: Mary S. Lovell
+  year: 2001
+- slug: the-skin-of-our-teeth-1942
+  name: The Skin of Our Teeth
+  author: Thornton Wilder
+  year: 1942
+- slug: the-song-of-names-2002
+  name: The Song of Names
+  author: Norman Lebrecht
+  year: 2002
+- slug: the-song-reader-2003
+  name: The Song Reader
+  author: Lisa Tucker
+  year: 2003
+- slug: the-sonnets-1609
+  name: The Sonnets
+  author: William Shakespeare
+  year: 1609
+- slug: the-sound-and-the-fury-1929
+  name: The Sound and the Fury
+  author: William Faulkner
+  year: 1929
+- slug: the-stepford-wives-1972
+  name: The Stepford Wives
+  author: Ira Levin
+  year: 1972
+  movies:
+  - title: The Stepford Wives
+    year: 1975
+    imdb: tt0073747
+  - title: The Stepford Wives
+    year: 2004
+    imdb: tt0327162
+- slug: the-story-of-doctor-dolittle-1920
+  name: The Story of Doctor Dolittle
+  author: Hugh Lofting
+  year: 1920
+- slug: the-story-of-my-life-1903
+  name: The Story of My Life
+  author: Helen Keller
+  year: 1903
+- slug: the-strange-case-of-dr-jekyll-and-mr-hyde-1886
+  name: The Strange Case of Dr. Jekyll & Mr. Hyde
+  author: Robert Louis Stevenson
+  year: 1886
+- slug: the-sun-also-rises-1926
+  name: The Sun Also Rises
+  author: Ernest Hemingway
+  year: 1926
+- slug: the-tell-tale-heart-1843
+  name: The Tell-Tale Heart
+  author: Edgar Allan Poe
+  year: 1843
+- slug: the-thin-man-1934
+  name: The Thin Man
+  author: Dashiell Hammett
+  year: 1934
+- slug: the-time-travelers-wife-2003
+  name: The Time Traveler's Wife
+  author: Audrey Niffenegger
+  year: 2003
+  movies:
+  - title: The Time Traveler's Wife
+    year: 2009
+    imdb: tt0452694
+- slug: the-town-and-the-city-1950
+  name: The Town and the City
+  author: Jack Kerouac
+  year: 1950
+- slug: the-tragedy-of-richard-iii-1593
+  name: The Tragedy of Richard III
+  author: William Shakespeare
+  year: 1593
+- slug: the-trial-1925
+  name: The Trial
+  author: Franz Kafka
+  year: 1925
+- slug: the-true-and-outstanding-adventures-of-the-hunt-sisters-2004
+  name: The True and Outstanding Adventures of the Hunt Sisters
+  author: Elisabeth Robinson
+  year: 2004
+- slug: the-two-towers-1954
+  name: The Two Towers
+  author: J.R.R. Tolkien
+  year: 1954
+  movies:
+  - title: 'The Lord of the Rings: The Two Towers'
+    year: 2002
+    imdb: tt0167261
+- slug: the-unabridged-journals-of-sylvia-plath-2000
+  name: The Unabridged Journals of Sylvia Plath
+  author: Sylvia Plath
+  year: 2000
+- slug: the-unbearable-lightness-of-being-1984
+  name: The Unbearable Lightness of Being
+  author: Milan Kundera
+  year: 1984
+- slug: the-vanishing-newspaper-2004
+  name: The Vanishing Newspaper
+  author: Philip Meyers
+  year: 2004
+- slug: the-virgin-suicides-1993
+  name: The Virgin Suicides
+  author: Jeffrey Eugenides
+  year: 1993
+  movies:
+  - title: The Virgin Suicides
+    year: 1999
+    imdb: tt0159097
+- slug: the-wine-bible-2001
+  name: The Wine Bible
+  author: Karen MacNeil
+  year: 2001
+- slug: the-witches-of-eastwick-1984
+  name: The Witches of Eastwick
+  author: John Updike
+  year: 1984
+- slug: the-wonderful-wizard-of-oz-1900
+  name: The Wonderful Wizard of Oz
+  author: Frank L. Baum
+  year: 1900
+  movies:
+  - title: The Wizard of Oz
+    year: 1939
+    imdb: tt0032138
+- slug: the-year-of-magical-thinking-2005
+  name: The Year of Magical Thinking
+  author: Joan Didion
+  year: 2005
+- slug: the-yearling-1938
+  name: The Yearling
+  author: Marjorie Kinnan Rawlings
+  year: 1938
+- slug: theatre-1937
+  name: Theatre
+  author: W. Somerset Maugham
+  year: 1937
+- slug: they-shoot-horses-dont-they-1935
+  name: They Shoot Horses, Don't They?
+  author: Horace McCoy
+  year: 1935
+- slug: thunder-1994
+  name: Thunder
+  author: James Grady
+  year: 1994
+- slug: time-and-again-1970
+  name: Time and Again
+  author: Jack Finney
+  year: 1970
+- slug: timeline-1999
+  name: Timeline
+  author: Michael Crichton
+  year: 1999
+- slug: to-have-and-have-not-1937
+  name: To Have and Have Not
+  author: Ernest Hemingway
+  year: 1937
+- slug: to-kill-a-mockingbird-1960
+  name: To Kill a Mockingbird
+  author: Harper Lee
+  year: 1960
+  movies:
+  - title: To Kill a Mockingbird
+    year: 1962
+    imdb: tt0056592
+- slug: trainspotting-1993
+  name: Trainspotting
+  author: Irvine Welsh
+  year: 1993
+  movies:
+  - title: Trainspotting
+    year: 1996
+    imdb: tt0117951
+- slug: trouble-in-our-backyard-1983
+  name: 'Trouble in Our Backyard: Central America and the United States in the Eighties'
+  author: Martin Diskin
+  year: 1983
+- slug: truth-and-beauty-2004
+  name: 'Truth & Beauty: A Friendship'
+  author: Ann Patchett
+  year: 2004
+- slug: tuesdays-with-morrie-1997
+  name: Tuesdays with Morrie
+  author: Mitch Albom
+  year: 1997
+- slug: twilight-2005
+  name: Twilight
+  author: Stephenie Meyer
+  year: 2005
+  movies:
+  - title: Twilight
+    year: 2008
+    imdb: tt1099212
+  - title: 'The Twilight Saga: New Moon'
+    year: 2009
+    imdb: tt1259571
+- slug: ulysses-1922
+  name: Ulysses
+  author: James Joyce
+  year: 1922
+- slug: uncle-toms-cabin-1852
+  name: Uncle Tom's Cabin
+  author: Harriet Beecher Stowe
+  year: 1852
+  movies:
+  - title: Uncle Tom's Cabin
+    year: 1927
+    imdb: tt0018524
+  - title: Uncle Tom's Cabin
+    year: 1987
+    imdb: tt0094213
+- slug: understanding-power-2002
+  name: Understanding Power
+  author: Noam Chomsky
+  year: 2002
+- slug: unless-2002
+  name: Unless
+  author: Carol Shields
+  year: 2002
+- slug: us-foreign-policy-and-the-iran-hostage-crisis-2001
+  name: U.S. Foreign Policy and the Iran Hostage Crisis
+  author: David Patrick Houghton
+  year: 2001
+- slug: valley-of-the-dolls-1966
+  name: Valley of the Dolls
+  author: Jacqueline Susann
+  year: 1966
+- slug: vanity-fair-1848
+  name: Vanity Fair
+  author: William Makepeace Thackeray
+  year: 1848
+- slug: velvet-undergrounds-the-velvet-underground-and-nico-2004
+  name: Velvet Underground's The Velvet Underground and Nico (33 1/3 Book 11)
+  author: Joe Harvard
+  year: 2004
+- slug: visions-of-cody-1972
+  name: Visions of Cody
+  author: Jack Kerouac
+  year: 1972
+- slug: waiting-for-godot-1953
+  name: Waiting for Godot
+  author: Samuel Beckett
+  year: 1953
+- slug: walden-1854
+  name: Walden
+  author: Henry David Thoreau
+  year: 1854
+- slug: war-and-peace-1869
+  name: War and Peace
+  author: Leo Tolstoy
+  year: 1869
+- slug: what-happened-to-baby-jane-1960
+  name: What Happened to Baby Jane?
+  author: Henry Farrell
+  year: 1960
+- slug: wheel-angels-on-toast-a-time-to-be-born-2001
+  name: Wheel/Angels on Toast/A Time to be Born
+  author: Dawn Powell
+  year: 2001
+- slug: when-everything-changed-2009
+  name: When Everything Changed
+  author: Gail Collins
+  year: 2009
+- slug: when-the-emperor-was-divine-2002
+  name: When the Emperor Was Divine
+  author: Julie Otsuka
+  year: 2002
+- slug: where-the-crawdads-sing-2018
+  name: Where the Crawdads Sing
+  author: Delia Owens
+  year: 2018
+  movies:
+  - title: Where the Crawdads Sing
+    year: 2022
+    imdb: tt9411972
+- slug: who-moved-my-cheese-1998
+  name: Who Moved My Cheese?
+  author: Spencer Johnson
+  year: 1998
+- slug: whos-afraid-of-virginia-woolf-1962
+  name: Who's Afraid of Virginia Woolf?
+  author: Edward Albee
+  year: 1962
+- slug: wicked-1995
+  name: 'Wicked: The Life and Times of the Wicked Witch of the West'
+  author: Gregory Maguire
+  year: 1995
+  movies:
+  - title: Wicked
+    year: 2024
+    imdb: tt1262426
+- slug: wild-2012
+  name: Wild
+  author: Cheryl Strayed
+  year: 2012
+- slug: wonder-2012
+  name: Wonder
+  author: R.J. Palacio
+  year: 2012
+  movies:
+  - title: Wonder
+    year: 2017
+    imdb: tt2543472
+- slug: wuthering-heights-1847
+  name: Wuthering Heights
+  author: Emily Bronte
+  year: 1847
+  movies:
+  - title: Wuthering Heights
+    year: 1939
+    imdb: tt0032145
+  - title: Emily Brontë's Wuthering Heights
+    year: 1992
+    imdb: tt0104181
+  - title: Wuthering Heights
+    year: 2011
+    imdb: tt1181614
+- slug: yoga-for-dummies-1999
+  name: Yoga for Dummies
+  author: Georg Feuerstein and Larry Payne
+  year: 1999
+- slug: zorba-the-greek-1946
+  name: Zorba the Greek
+  author: Nikos Kazantakis
+  year: 1946
