@@ -14,16 +14,18 @@ jobs:
   build:
     runs-on: ubuntu-latest-x86
     steps:
-      - name: Configure git to use HTTPS instead of SSH
-        run: |-
-          git config --global url."https://forgejo.tail07efb.ts.net/".insteadOf "ssh://git@forgejo.tail07efb.ts.net/"
       - name: install missing libraries
         run: |-
           apt update; apt -y install chromium
       - uses: actions/checkout@v4
-        with:
-          submodules: recursive
-          token: ${{ github.token }}
+      - name: Configure git credentials
+        run: |-
+          git config --global credential.helper store
+          echo "https://oauth2:${{ github.token }}@forgejo.tail07efb.ts.net" > ~/.git-credentials
+      - name: Checkout submodules with HTTPS
+        run: |-
+          git config --global url."https://forgejo.tail07efb.ts.net/".insteadOf "ssh://git@forgejo.tail07efb.ts.net/"
+          git submodule update --init --recursive
       - uses: astral-sh/setup-uv@v5
         with:
           enable-cache: true
@@ -37,10 +39,6 @@ jobs:
       - name: Convert statistics.mmd to SVG
         run: |-
           npx -p @mermaid-js/mermaid-cli mmdc -i personal/statistics.mmd -o personal/statistics.svg --puppeteerConfigFile personal/puppeteerConfig.json -b transparent
-      - name: Configure git credentials
-        run: |-
-          git config --global credential.helper store
-          echo "https://oauth2:${{ github.token }}@forgejo.tail07efb.ts.net" > ~/.git-credentials
       - name: Commit updated files to personal repo
         run: |-
           cd personal
