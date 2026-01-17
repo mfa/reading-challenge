@@ -1,0 +1,53 @@
+name: Update statistics
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'reading-challenge.yaml'
+      - 'personal/*.yaml'
+      - 'personal/*.csv'
+  workflow_dispatch:
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest-x86
+    steps:
+      - name: install missing libraries
+        run: |-
+          apt update; apt -y install chromium
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          python-version: "3.13"
+      - name: Update movies from CSV
+        run: |-
+          uv run main.py update-movies || echo "No CSV updates needed"
+      - name: Generate statistics.mmd
+        run: |-
+          uv run main.py statistics
+      - name: Convert statistics.mmd to SVG
+        run: |-
+          npx -p @mermaid-js/mermaid-cli mmdc -i personal/statistics.mmd -o personal/statistics.svg --puppeteerConfigFile personal/puppeteerConfig.json -b transparent
+      - name: Commit updated files to personal repo
+        run: |-
+          cd personal
+          git checkout main
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add *.yaml statistics.mmd statistics.svg
+          git commit -m "Update statistics and watched movies" || exit 0
+          git push
+      - name: Update submodule reference in parent repo
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add personal
+          git commit -m "Update personal submodule reference" || exit 0
+          git push
