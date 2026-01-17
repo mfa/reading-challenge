@@ -21,7 +21,7 @@ jobs:
       - name: Configure git credentials
         run: |-
           git config --global credential.helper store
-          echo "https://oauth2:${{ github.token }}@forgejo.tail07efb.ts.net" > ~/.git-credentials
+          echo "https://oauth2:${{ secrets.PERSONAL_REPO_TOKEN }}@forgejo.tail07efb.ts.net" > ~/.git-credentials
       - name: Checkout submodules with HTTPS
         run: |-
           git config --global url."https://forgejo.tail07efb.ts.net/".insteadOf "ssh://git@forgejo.tail07efb.ts.net/"
