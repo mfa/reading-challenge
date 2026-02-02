@@ -68,10 +68,18 @@ The generated `.mmd` file can be viewed at [mermaid.live](https://mermaid.live) 
 
 ## Personal Folder
 
-The `personal/` folder contains user-specific tracking data:
+The `personal/` folder is a git submodule pointing to a separate repository containing user-specific tracking data:
 
 - **CSV file**: Export of your watched movies from IMDb (must contain a `Const` column with IMDb tt keys)
 - **YAML file**: Your personal reading and movie watching progress
+- **statistics.mmd**: Auto-generated Mermaid diagram (updated by Forgejo Actions)
+- **statistics.svg**: Auto-generated visualization (updated by Forgejo Actions)
+
+When changes are pushed to `reading-challenge.yaml` or the personal submodule, a Forgejo Action automatically:
+1. Updates watched movies from CSV files
+2. Generates `statistics.mmd` from the data
+3. Converts it to `statistics.svg`
+4. Commits the generated files to the personal repository
 
 ### Personal YAML Structure
 
